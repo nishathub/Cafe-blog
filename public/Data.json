@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover_img": "https://i.ibb.co/G7tnNvL/pexels-umbrella.jpg",
+      "title": "Journey to the Enchanted Kingdom of Wonders",
+      "author_name": "Eleanor Mystique",
+      "author_img": "https://i.ibb.co/1ZmWBng/pexels-profile-photo.jpg",
+      "post_date": "08 February 2024",
+      "reading_time": 15,
+      "hashtag": ["#Adventure", "#Fantasy", "#Exploration"]
+    },
+    {
+      "id": 2,
+      "cover_img": "https://i.ibb.co/G7tnNvL/pexels-umbrella.jpg",
+      "title": "Whispers Through the Echoes of Time and Space",
+      "author_name": "Lucas Quantum",
+      "author_img": "https://i.ibb.co/1ZmWBng/pexels-profile-photo.jpg",
+      "post_date": "09 February 2024",
+      "reading_time": 20,
+      "hashtag": ["#ScienceFiction", "#TimeTravel", "#Mystery"]
+    },
+    {
+      "id": 3,
+      "cover_img": "https://i.ibb.co/G7tnNvL/pexels-umbrella.jpg",
+      "title": "Secrets Unveiled in the Mysterious Shadows of Night",
+      "author_name": "Isabella Nightshade",
+      "author_img": "https://i.ibb.co/1ZmWBng/pexels-profile-photo.jpg",
+      "post_date": "10 February 2024",
+      "reading_time": 18,
+      "hashtag": ["#Thriller", "#Suspense", "#DarkFantasy"]
+    },
+    {
+      "id": 4,
+      "cover_img": "https://i.ibb.co/G7tnNvL/pexels-umbrella.jpg",
+      "title": "Epic Quest for Serenity: Magic Beyond Imagination",
+      "author_name": "Alexander Starlight",
+      "author_img": "https://i.ibb.co/1ZmWBng/pexels-profile-photo.jpg",
+      "post_date": "11 February 2024",
+      "reading_time": 22,
+      "hashtag": ["#EpicFantasy", "#Quest", "#Magic"]
+    },
+    {
+      "id": 5,
+      "cover_img": "https://i.ibb.co/G7tnNvL/pexels-umbrella.jpg",
+      "title": "Metropolis Chronicles: Urban Adventures and Dystopian Dreams",
+      "author_name": "Victoria Celestia",
+      "author_img": "https://i.ibb.co/1ZmWBng/pexels-profile-photo.jpg",
+      "post_date": "12 February 2024",
+      "reading_time": 25,
+      "hashtag": ["#Dystopian", "#UrbanAdventure", "#Technology"]
+    }
+  ]
+  
